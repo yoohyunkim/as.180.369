@@ -83,7 +83,7 @@ If you need to meet with me outside of these times, please e-mail me.
 > Statistics, (JBES) and the Berkeley Electronic Journal of
 > Macroeconomics (BEJM).
 
-## Teaching Assistant—Matthew Zahn
+## Teaching Assistant—Matthew Zahn <!-- Going to change this -->
 
 ![Matthew Zahn](media/matthew-zahn.jpg?raw=true)
 
