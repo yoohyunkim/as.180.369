@@ -7,9 +7,12 @@
 - [ ] EBM By 08/23: update information to reflect mine and Adrian's information(reach out to Adrian through an issue in Github)
 - [ ] EBM By 08/23: do Sembly.AI work
 - [ ] EBM By 08/23: Academic GitHub accounts pricing (Student version). Write instructions on how to apply in first class agenda.
+- [ ] EBM By 08/23: Cheat sheet/ Instructors notes for each class. Link at top of each class with boring title (instructors notes)
 - [ ] ABM By 08/23: Get in touch with Eitan and run his final project in myst and see if it works. (Markdown document using myst turning markdown into HtML)
 - [ ] ABM By 08/23: Do a zoom with Mridul and implement his fixes
 - [ ] ABM By 08/23: Create a read-me file to set up sciserver (create account, create folders, install extension, run test file). Intro to this will be in second or later class.
+- [ ] EBM and ABM By 08/23: Review notes for first class. (EBM: Re-view first class from last year)
+- [ ] EBM and ABM By 08/23: What have we missed so far to prepare for class?
 
 20240809 To Do List:
 - [x] EBM By 8/16: Look through the repo to delete any personal info from last year’s class
