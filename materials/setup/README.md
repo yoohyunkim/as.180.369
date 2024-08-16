@@ -46,6 +46,7 @@ Students will also complete their first reading for this course and conduct thei
 
 ### Assignments
 
+- [ ] Sign up for NASA Open Science Skills Training Workshop on: September 17th and 24th, 1pm ET - 4pm ET at: https://us02web.zoom.us/webinar/register/WN_iNYg3dZcQBixAWZdEwspMA
 - [ ] Completed Dennett summary (due Mon Sep 11; submit online via Github.)
 
 Before our next class session, students will submit their final draft of the Dennett paper summary in their fork of this repository in the folder `/contrib/YOUR-GITHUB-ID/` in a file titled `class00-dennett-summary.md`. Your submission will be graded on the following criteria:
