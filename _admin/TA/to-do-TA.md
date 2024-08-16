@@ -6,6 +6,10 @@
 - [ ] EBM By 08/23: scrape the class github to be replicable for any year
 - [ ] EBM By 08/23: update information to reflect mine and Adrian's information(reach out to Adrian through an issue in Github)
 - [ ] EBM By 08/23: do Sembly.AI work
+- [ ] EBM By 08/23: Academic GitHub accounts pricing (Student version). Write instructions on how to apply in first class agenda.
+- [ ] ABM By 08/23: Get in touch with Eitan and run his final project in myst and see if it works. (Markdown document using myst turning markdown into HtML)
+- [ ] ABM By 08/23: Do a zoom with Mridul and implement his fixes
+- [ ] ABM By 08/23: Create a read-me file to set up sciserver (create account, create folders, install extension, run test file). Intro to this will be in second or later class.
 
 20240809 To Do List:
 - [x] EBM By 8/16: Look through the repo to delete any personal info from last year’s class
@@ -15,6 +19,6 @@
 - [x] EBM By 8/16: Do an AI search of services that allow you to submit Zoom recordings and get an AI  summary + what is pricing
 - [x] EBM By 8/16: Reach out to Matt Zahn to see if he can fill in missing Zoom recording gaps
 - [ ] EBM By 8/16: See about sharing the folder of recordings w/ @llorracc
-- [ ] ABM By 8/16: Get familiar with SciServer (https://apps.sciserver.org/dashboard/)
-- [ ] ABM By 8/16: Get in touch with Mridul on how to set up MySt files 
+- [x] ABM By 8/16: Get familiar with SciServer (https://apps.sciserver.org/dashboard/)
+- [x] ABM By 8/16: Get in touch with Mridul on how to set up MySt files 
 
