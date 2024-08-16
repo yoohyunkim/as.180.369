@@ -1,6 +1,6 @@
-# Syllabus: AS.180.369 “Tools for Writing a Research Paper in Economics” (Fall 2023)
+# Syllabus: AS.180.369 “Tools for Writing a Research Paper in Economics” (Fall 2024)
 
-**This repository contains all of the course materials for AS.180.369 “Tools for Writing a Research Paper in Economics.” (Fall 2023)**
+**This repository contains all of the course materials for AS.180.369 “Tools for Writing a Research Paper in Economics.” (Fall 2024)**
 
 **NOTE**: This syllabus is a live document. It will be periodically updated as the course progresses!
 
@@ -35,8 +35,8 @@ This is an in-person course, held on the Johns Hopkins Homewood Campus:
 |:-------- | ----------------------------------------------------------------------------------------------------- |
 | Title    | [AS.180.369 “Tools for Writing a Research Paper in Economics”](#)                                     |
 | Hours    | Monday 3:00 PM US/Eastern ~ 5:30 PM US/Eastern                                                        |
-| Dates    | Aug 28, 2023 ~ Dec 8, 2023 (See [below](#schedule) for schedule.)                                             |
-| Location | [Hodson 315 (Homewood Campus)](https://www.google.com/maps/dir/Current+Location/39.327538,-76.622306) |
+| Dates    | Aug 26, 2024 ~ Dec 6, 2024 (See [below](#schedule) for schedule.)                                             |
+| Location | [Hodson 311 (Homewood Campus)](https://www.google.com/maps/dir/Current+Location/39.327538,-76.622306) |
 
 This course will be conducted by your instructor and a teaching assistant, supported by additional, external contributors:
 
@@ -83,52 +83,22 @@ If you need to meet with me outside of these times, please e-mail me.
 > Statistics, (JBES) and the Berkeley Electronic Journal of
 > Macroeconomics (BEJM).
 
-## Teaching Assistant—Matthew Zahn <!-- Going to change this -->
+## Teaching Assistant—Adrian Monninger <!-- Going to change this -->
 
-![Matthew Zahn](media/matthew-zahn.jpg?raw=true)
 
 ### Contact
 
-Please contact me about this course at my e-mail address: [matthew.zahn@jhu.edu](mailto:matthew.zahn@jhu.edu).
+Please contact me about this course at my e-mail address: [amonnin1@jhu.edu](mailto:amonnin1@jhu.edu).
 For assignments in this course, course attendees are also encouraged to communicate by @-tagging me on Github.
-My Github handle is [matthew-zahn](https://github.com/matthew-zahn).
+My Github handle is [AMonninger](https://github.com/amonninger).
 
 (Also, see [below](#communications) for the communications policy for this course.)
 
 ### Bio
 
 > I am a Ph.D. candidate in the Economics Department at Johns Hopkins
-> University.  My research focuses on industrial organization with an
-> emphasis on healthcare topics.
+> University.  My research focuses on...
 
-## External Support—Cameron Riddell
-
-![Cameron Riddell](media/cameron-riddell.jpg?raw=true)
-
-Cameron is a contributor to the [Econ-ARK](https://econ-ark.org/) project, which is led by Chris Carroll.
-
-**Cameron is __not__ affiliated with Johns Hopkins University.**
-
-### Contact
-
-Please contact me about this course at my e-mail address: [cameron@dutc.io](mailto:cameron@dutc.io).
-For assignments in this course, course attendees are also encouraged to communicate by @-tagging me on Github.
-My Github handle is [camriddell](https://github.com/camriddell/).
-(Also, see [below](#communications) for the communications policy for this course.)
-
-Feel free to contact external support for additional technical support or
-instructional guidance (where directed by your TA.)
-
-**Do not contact or CC external support for issues relating to absences, grading,
-accommodations, or other personal matters.**
-
-### Bio
-
-> Cameron worked in academia studying various aspects of psychology,
-> including the neural activity underlying social interaction, perception
-> of taste, and human memory. His studies naturally led him to learn
-> Python, which he has been writing for over 8 years with a strong
-> emphasis on data analytics and scientific communication.
 
 ## Course Materials
 
@@ -161,19 +131,19 @@ languages (though having taken a formal course in such a language is not require
 
 | #  | Date                                 | Phase               |                 Due/Assignments                 |
 |:--:|--------------------------------------|---------------------|:-----------------------------------------------:|
-| 1  | [Mon Aug 28](materials/setup)        | 0. the setup        |                                                 |
-| 2  | [Mon Sep 11](materials/pitch)        | 1. the pitch        |                                                 |
-| 3  | [Mon Sep 18](materials/pitch)        | 1. the pitch        |                                                 |
-| 4  | [Mon Sep 25](materials/pitch)        | 1. the pitch        |  2×3-min Research Pitches (presented in-class)  |
-| 5  | [Mon Oct 2](materials/draft)         | 2. the draft        |                                                 |
-| 6  | [Mon Oct 9](materials/draft)         | 2. the draft        |                                                 |
-| 7  | [Mon Oct 16](materials/draft)        | 2. the draft        |                                                 |
-| 8  | [Mon Oct 23](materials/draft)        | 2. the draft        |                                                 |
-| 9  | [Mon Oct 30](materials/submission)   | 2. the draft        |                                                 |
-| 10 | [Mon Nov 6](materials/submission)    | 2. the draft        |      First Draft of Paper (submitted online)    |
-| 11 | [Mon Nov 13](materials/submission)   | 3. the submission   |                                                 |
-| 12 | [Mon Nov 27](materials/presentation) | 4. the presentation |     Final Draft of Paper (submitted online)     |
-| 13 | [Mon Dec 4](materials/presentation)  | 4. the presentation | Final (15-min) Presentation (presented in-class) |
+| 1  | [Mon Aug 26](materials/setup)        | 0. the setup        |                                                 |
+| 2  | [Mon Sep 9](materials/pitch)         | 1. the pitch        |                                                 |
+| 3  | [Mon Sep 16](materials/pitch)        | 1. the pitch        |                                                 |
+| 4  | [Mon Sep 23](materials/pitch)        | 1. the pitch        |  2×3-min Research Pitches (presented in-class)  |
+| 5  | [Mon Sep 30](materials/draft)        | 2. the draft        |                                                 |
+| 6  | [Mon Oct 7](materials/draft)         | 2. the draft        |                                                 |
+| 7  | [Mon Oct 14](materials/draft)        | 2. the draft        |                                                 |
+| 8  | [Mon Oct 21](materials/draft)        | 2. the draft        |                                                 |
+| 9  | [Mon Oct 28](materials/submission)   | 2. the draft        |                                                 |
+| 10 | [Mon Nov 4](materials/submission)    | 2. the draft        |      First Draft of Paper (submitted online)    |
+| 11 | [Mon Nov 11](materials/submission)   | 3. the submission   |                                                 |
+| 12 | [Mon Nov 18](materials/presentation) | 4. the presentation |     Final Draft of Paper (submitted online)     |
+| 13 | [Mon Dec 2](materials/presentation)  | 4. the presentation | Final (15-min) Presentation (presented in-class) |
 
 This course is split into five main phases:
 - the setup: students will get set up with all of the tools necessary
