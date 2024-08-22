@@ -9,7 +9,7 @@
 * [Overview](#overview)
 * [Instructor—Chris Carroll](#instructorchris-carroll)
   * [Office Hours](#office-hours)
-* [Teaching Assistant—Matthew Zahn](#teaching-assistantmatthew-zahn)
+* [Teaching Assistant—Adrian Monninger](#teaching-assistantadrian-monninger)
 * [External Support—Cameron Riddell](#external-supportcameron-riddell)
 * [Course Materials](#course-materials)
 * [Course Description](#course-description)
@@ -41,7 +41,7 @@ This is an in-person course, held on the Johns Hopkins Homewood Campus:
 This course will be conducted by your instructor and a teaching assistant, supported by additional, external contributors:
 
 - Instructor: [Chris Carroll <ccarroll@jhu.edu>](https://econ.jhu.edu/directory/christopher-carroll/)
-- Teaching Assistant: [Matthew Zahn <matthew.zahn@jhu.edu>](https://www.matthewvzahn.com/)
+- Teaching Assistant: [Adrian Monninger <amonnin1@jhu.edu>](https://www.github.com/AMonninger)
 - External Support†: [Cameron Riddell <cameron@dutc.io>](https://www.dontusethiscode.com/blog.html)
 
 *† Cameron is not affiliated with Johns Hopkins University.*
@@ -83,23 +83,24 @@ If you need to meet with me outside of these times, please e-mail me.
 > Statistics, (JBES) and the Berkeley Electronic Journal of
 > Macroeconomics (BEJM).
 
-## Teaching Assistant—Matthew Zahn
+## Teaching Assistant—Adrian Monninger
 
-![Matthew Zahn](media/matthew-zahn.jpg?raw=true)
+<img src="media/adrian-monninger.jpg?raw=true" alt="Adrian Monninger" width="300"/>
+
 
 ### Contact
 
-Please contact me about this course at my e-mail address: [matthew.zahn@jhu.edu](mailto:matthew.zahn@jhu.edu).
+Please contact me about this course at my e-mail address: [amonnin1@jhu.edu](mailto:amonnin1@jhu.edu).
 For assignments in this course, course attendees are also encouraged to communicate by @-tagging me on Github.
-My Github handle is [matthew-zahn](https://github.com/matthew-zahn).
+My Github handle is [AMonninger](https://github.com/AMonninger).
 
 (Also, see [below](#communications) for the communications policy for this course.)
 
 ### Bio
 
 > I am a Ph.D. candidate in the Economics Department at Johns Hopkins
-> University.  My research focuses on industrial organization with an
-> emphasis on healthcare topics.
+> University.  My research focuses on macroeconomics with emphasis on
+> heterogeneous agent. For this, I am using and developing [Econ-ARK](https://econ-ark.org/).
 
 ## External Support—Cameron Riddell
 
