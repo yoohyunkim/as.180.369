@@ -60,8 +60,8 @@ My Github handle is [llorracc](https://github.com/llorracc/).
 ### Office Hours
 
 My office is located at Wyman Park Building 590.
-I hold office hours Friday 1:45 - 3:45 PM US/Eastern.
-You must book in advance via [[http://www.econ2.jhu.edu/people/ccarroll/](http://www.econ2.jhu.edu/people/ccarroll/)](https://github.com/ccarrollATjhuecon/Teaching/blob/master/Logistics/Office-Hours-Rules.md)
+I hold Zoom office hours on Friday between 2:00 - 5:00 PM US/Eastern.
+You must book in advance via the following link [[http://www.econ2.jhu.edu/people/ccarroll/](http://www.econ2.jhu.edu/people/ccarroll/)](https://github.com/ccarrollATjhuecon/Teaching/blob/master/Logistics/Office-Hours-Rules.md)
 
 If you need to meet with me outside of these times, please e-mail me.
 
