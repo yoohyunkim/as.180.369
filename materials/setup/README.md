@@ -5,7 +5,7 @@
 In the initial setup phase of this course, we will get you set-up to use the core tools
 involved in writing a research paper in economics or other quantitative disciplines.
 
-## Mon Aug 28
+## Class 1
 
 [Zoom Meeting (Meeting ID # 943 5190 2371; Passcode 487000)](https://JHUBlueJays.zoom.us/j/94351902371?pwd=Z0JTbFhxbk9wTHlPM08rUnhtR0xIZz09)
 
@@ -24,13 +24,13 @@ Students will also complete their first reading for this course and conduct thei
 
 ### Agenda
 
-- **CC, MZ, CR**: Introductions (5 min.)
+- **CC, TA's**: Introductions (5 min.)
   Instructor, coïnstructor, technical support will share their backgrounds in academic research and how they will support students in this course.
 - **CC**: Course Overview (10 min.)
   Instructor will share the overarching vision for this course, as well as the specific goals he has for attendees.
 - **CC**: Tools Introduction (10 min.)
   Instructor will give an introduction to each of the tools that will be used in this course, their purpose, and how they fit into the process of writing and submitting a research paper for publication.
-- **CC, MZ, CR**: Service Signups (30 min.)
+- **CC, TA's***: Service Signups (30 min.)
   Students will sign up for the services above, with direction and guidance from instructor, coïnstructor, and technical support.
   - [ ] Create a Github account.
   - [ ] Fork this repository on Github.
@@ -39,7 +39,7 @@ Students will also complete their first reading for this course and conduct thei
 - Independent Reading (15 min.)
   Students will read the Dennett paper.
 - *Short Break (5 min.)*
-- **CC, CR**: Independent Writing with Instructor-Led ChatGPT Demonstration (60 min.)
+- **CC, TA's***: Independent Writing with Instructor-Led ChatGPT Demonstration (60 min.)
   - [ ] Students will write a brief (250 words) summary of the Dennett paper.
   - [ ] The writing should be done in Github as a new file in the `/contrib/YOUR-GITHUB-ID/` folder titled `class00-dennett-summary.md`.
   - [ ] Instructor will demonstrate how to use ChatGPT to make guided improvements to writing.
