@@ -12,7 +12,7 @@ research paper.
 [Zoom recording. Requires JHU login.](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/mzahn2_jh_edu/EQTq2wtktIRCmEADI4K6oIEBfdt3ONcp5aTzttASTncz2Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=grzeEz)
 
 **Agenda**
-1. **CC, TA's*** tool micro-demos (50 mins)
+1. **CC, TA's** tool micro-demos (50 mins)
     - [Github.com](https://github.com) Demo (10 mins)
         - What is a fork?
         - How do I sync my copy of the repository with the original?
@@ -38,7 +38,7 @@ research paper.
         - How do I `git pull`?
         - How do I `git add` and `git commit`?
         - How do I use `gh`?
-2. **CC, TA's*** check your understanding (30 mins)
+2. **CC, TA's** check your understanding (30 mins)
     - [Github.com](http://github.com) Check (5 mins): Resync your ‘fork’ against [‘origin’](http://github.com/llorracc/as.180.369).
     - [Jupyterhub](http://jhu.econ-ark.org) Check (5 mins): Log in.
         - Under your `contrib/` folder, open your Dennett summary and copy the contents into a new notebook.
@@ -51,7 +51,7 @@ research paper.
         - `git commit -m …` the changes you `git add`ed.
         - `git push origin` to synchronize the changes from your Jupyterhub to Github.
     - **You should NEVER EVER edit ANYTHING on the Github website again** All changes should be made in Jupyterhub and then `git push`ed up.
-3. **CC, TA's*** overview of term paper & process (15 mins): What is the overall goal of the term paper? What process will we follow? What do we want to accomplish through the pitch process?
+3. **CC, TA's** overview of term paper & process (15 mins): What is the overall goal of the term paper? What process will we follow? What do we want to accomplish through the pitch process?
 4. [Sign up for 2 of the starting topics](https://github.com/llorracc/as.180.369/issues/1).
 
 **Homework**
@@ -63,20 +63,20 @@ research paper.
 
 **Agenda**
 1. **TA** Example Python code analyzing the rate of return vs Presidential party. (15 min.)
-2. **CC, TA's*** [BibTeX](https://www.bibtex.com) (30 min.)
+2. **CC, TA's** [BibTeX](https://www.bibtex.com) (30 min.)
     - [What is BibTeX?](https://www.bibtex.com/g/bibtex-format/#what-is-bibtex)
     - [BibTeX format explained](https://www.bibtex.com/g/bibtex-format/#bibtex-format-explained)
     - Discussion of BibTeX issues
-3. **CC, TA's*** [Litmaps](https://www.litmaps.com/) (45 min.)
+3. **CC, TA's** [Litmaps](https://www.litmaps.com/) (45 min.)
     - [Synchronous Litmaps demonstration](https://www.youtube.com/watch?v=TJ_wkVDQBrs)
         - Finding literature via Litmaps
-4. **CC, TA's*** [Paperpile](https://paperpile.com/) (45 min.)
+4. **CC, TA's** [Paperpile](https://paperpile.com/) (45 min.)
     - Create a free trial Paperpile account
     - Connect your account to the jhu library for help in finding papers
     - Sharing vs exporting bibliographies
     - How do you organize your Paperpile folders?
     - [Synchronous Paperpile demonstration](https://www.youtube.com/watch?v=0p2QbrmePKk)
-5. **CC, TA's*** Sharing BibTeX files between Paperpile & Litmaps (15 min)
+5. **CC, TA's** Sharing BibTeX files between Paperpile & Litmaps (15 min)
 
 **Homework**
 - Use Litmaps to conduct two literature searches
