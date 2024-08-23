@@ -41,10 +41,11 @@ This is an in-person course, held on the Johns Hopkins Homewood Campus:
 This course will be conducted by your instructor and a teaching assistant, supported by additional, external contributors:
 
 - Instructor: [Chris Carroll <ccarroll@jhu.edu>](https://econ.jhu.edu/directory/christopher-carroll/)
-- Teaching Assistant: [Matthew Zahn <matthew.zahn@jhu.edu>](https://www.matthewvzahn.com/)
-- External Support†: [Cameron Riddell <cameron@dutc.io>](https://www.dontusethiscode.com/blog.html)
+- Graduate Teaching Assistant: [Adrian Monninger <amonnin1@jhu.edu>]
+- Undergraduate Teaching Assistant: [Eitan Murinson <emurins1@jhu.edu>]
 
-*† Cameron is not affiliated with Johns Hopkins University.*
+
+
 
 ## Instructor—Chris Carroll
 
