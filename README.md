@@ -38,7 +38,7 @@ This is an in-person course, held on the Johns Hopkins Homewood Campus:
 | Dates    | Aug 26, 2024 ~ Dec 6, 2024 (See [below](#schedule) for schedule.)                                             |
 | Location | [Hodson 311 (Homewood Campus)](https://www.google.com/maps/dir/Current+Location/39.327538,-76.622306) |
 
-This course will be conducted by your instructor and a teaching assistant, supported by additional, external contributors:
+This course will be conducted by your instructor a graduate teaching assistant, supported by an undergraduate teaching assistant:
 
 - Instructor: [Chris Carroll <ccarroll@jhu.edu>](https://econ.jhu.edu/directory/christopher-carroll/)
 - Graduate Teaching Assistant: [Adrian Monninger <amonnin1@jhu.edu>]
