@@ -241,6 +241,8 @@ Note that JHU policy states:
 If you have any questions about this or any other policy, please contact
 your instructor.
 
+Having emphasized the importance of in-person participation, we recognize that it may occassionally happen that a student has COVID or other very extenuating circumstances (based on Instructor/TA approval) that prevent them from attending in-person. For these cases, this is our class's Zoom link (which will be the same for every class): [Zoom Meeting](https://zoom.us/j/94375507370)
+
 ### Accommodations
 
 We strive to create a welcoming, effective, and productive learning
