@@ -24,7 +24,7 @@ Students will also complete their first reading for this course and conduct thei
 ### Agenda
 
 - **CC, TA's**: Introductions (5 min.)
-  Instructor, coïnstructor, technical support will share their backgrounds in academic research and how they will support students in this course.
+  Instructor, coinstructor, technical support will share their backgrounds in academic research and how they will support students in this course.
 - **CC**: Course Overview (10 min.)
   Instructor will share the overarching vision for this course, as well as the specific goals he has for attendees.
 - **CC**: Tools Introduction (10 min.)
@@ -33,7 +33,8 @@ Students will also complete their first reading for this course and conduct thei
   Students will sign up for the services above, with direction and guidance from instructor, coïnstructor, and technical support.
   - [ ] Create a Github account.
   - [ ] Fork this repository on Github.
-  - [ ] Invite [llorracc](https://github.com/llorracc/) and [matthew-zahn](https://github.com/matthew-zahn) to the repository.
+  - [ ] Invite [llorracc](https://github.com/llorracc/) and [emurinson](https://github.com/emurinson) and [Amonninger](https://github.com/Amonninger) to the repository as collaborators.
+  - [ ] In contrib folder, create new folder with your Github ID
   - [ ] Create a OpenAI ChatGPT Account.
 - Independent Reading (15 min.)
   Students will read the Dennett paper.
