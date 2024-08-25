@@ -84,21 +84,41 @@ If you need to meet with me outside of these times, please e-mail me.
 > Statistics, (JBES) and the Berkeley Electronic Journal of
 > Macroeconomics (BEJM).
 
-## Teaching Assistant—Adrian Monninger <!-- Going to change this -->
+## Graduate TA—Adrian Monninger <!-- Going to change this -->
+
+<img src="media/adrian-monninger.jpg?raw=true" alt="Adrian Monninger" width="300"/>
 
 
 ### Contact
 
 Please contact me about this course at my e-mail address: [amonnin1@jhu.edu](mailto:amonnin1@jhu.edu).
 For assignments in this course, course attendees are also encouraged to communicate by @-tagging me on Github.
-My Github handle is [AMonninger](https://github.com/amonninger).
+My Github handle is [AMonninger](https://github.com/AMonninger).
 
 (Also, see [below](#communications) for the communications policy for this course.)
 
 ### Bio
 
 > I am a Ph.D. candidate in the Economics Department at Johns Hopkins
-> University.  My research focuses on...
+> University.  My research focuses on macroeconomics with emphasis on
+> heterogeneous agent. For this, I am using and developing [Econ-ARK](https://econ-ark.org/).
+
+
+## Undergraduate TA—Ethan Murinson
+
+### Contact
+
+If you have any issues or questions with assignments in this course, course attendees are encouraged to communicate by @-tagging me on Github in a Github Issue.
+My Github handle is [emurinson](https://github.com/emurinson).If you have any questions you'd like addressed by email, please contact me at: [emurins1@jhu.edu](mailto:emurins1@jhu.edu).
+
+(Also, see [below](#communications) for the communications policy for this course.)
+
+### Bio
+
+> I'm excited to be your TA for this course. I am a senior studying Math and Economics at Johns Hopkins
+> University.  My research focuses on macroeconomics with emphasis on
+> heterogeneous agent. For this, I am using and developing [Econ-ARK](https://econ-ark.org/).
+
 
 
 ## Course Materials
