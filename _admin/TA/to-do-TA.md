@@ -1,13 +1,17 @@
-20240816 To Do List:
-- [ ] EBM By 08/23: Gain access to paid AI's (GT-4o and Claude) using AWS and Azure + figure out which version of Claude is available
-- [ ] EBM By 08/23: Try to complete some of the tasks that you completed as part of last year's class
+20240823-for-20240826 To Do List:
+- [x] EBM By 08/26: go to library to see about access to premiuem gen AI's
+- [x] EBM By 08/26: create Instructors-Notes folder within _admin with notes file for first class
+
+20240816-for-20240823 To Do List:
+- [~] EBM By 08/23: Gain access to paid AI's (GT-4o and Claude) using AWS and Azure + figure out which version of Claude is available
+  - [x] EBM By 08/23: Try to complete some of the tasks that you completed as part of last year's class
 - [ ] EBM By 08/23: Update class agenda for 09/23 to reflect NASA Workshop viewing
-- [ ] EBM By 08/23: Remove the dates from the class agendas linked from the syllabus page
-- [ ] EBM By 08/23: scrape the class github to be replicable for any year
+- [x] EBM By 08/23: Remove the dates from the class agendas linked from the syllabus page
+- [x] EBM By 08/23: scrape the class github to be replicable for any year
 - [ ] EBM By 08/23: update information to reflect mine and Adrian's information(reach out to Adrian through an issue in Github)
-- [ ] EBM By 08/23: do Sembly.AI work
+- [x] EBM By 08/23: do Sembly.AI work
 - [ ] EBM By 08/23: Academic GitHub accounts pricing (Student version). Write instructions on how to apply in first class agenda.
-- [ ] EBM By 08/23: Cheat sheet/ Instructors notes for each class. Link at top of each class with boring title (instructors notes)
+- [x] EBM By 08/23: Cheat sheet/ Instructors notes for each class. Link at top of each class with boring title (instructors notes)
 - [ ] ABM By 08/23: Get in touch with Eitan and run his final project in myst and see if it works. (Markdown document using myst turning markdown into HtML)
 - [ ] ABM By 08/23: Do a zoom with Mridul and implement his fixes
 - [ ] ABM By 08/23: Create a read-me file to set up sciserver (create account, create folders, install extension, run test file). Intro to this will be in second or later class.
