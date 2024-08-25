@@ -150,13 +150,13 @@ languages (though having taken a formal course in such a language is not require
 
 ## Schedule
 
-| #  | Date                                 | Phase               |                 Due/Assignments                 |
+| #  | Date                                 | Phase               |                 Due                             |
 |:--:|--------------------------------------|---------------------|:-----------------------------------------------:|
 | 1  | [Mon Aug 26](materials/setup)        | 0. the setup        |                                                 |
-| 2  | [Mon Sep 9](materials/pitch)         | 1. the pitch        |                                                 |
+| 2  | [Mon Sep 9](materials/pitch)         | 1. the pitch        |     Dennett Summary; signup for NASA workshop   |
 | 3  | [Mon Sep 16](materials/pitch)        | 1. the pitch        |                                                 |
 | 4  | [Mon Sep 23](materials/pitch)        | 1. the pitch        |  2×3-min Research Pitches (presented in-class)  |
-| 5  | [Mon Sep 30](materials/draft)        | 2. the draft        |                                                 |
+| 5  | [Mon Sep 30](materials/draft)        | 2. the draft        |      Watch 2nd NASA Workshop                    |
 | 6  | [Mon Oct 7](materials/draft)         | 2. the draft        |                                                 |
 | 7  | [Mon Oct 14](materials/draft)        | 2. the draft        |                                                 |
 | 8  | [Mon Oct 21](materials/draft)        | 2. the draft        |                                                 |
@@ -164,7 +164,7 @@ languages (though having taken a formal course in such a language is not require
 | 10 | [Mon Nov 4](materials/submission)    | 2. the draft        |      First Draft of Paper (submitted online)    |
 | 11 | [Mon Nov 11](materials/submission)   | 3. the submission   |                                                 |
 | 12 | [Mon Nov 18](materials/presentation) | 4. the presentation |     Final Draft of Paper (submitted online)     |
-| 13 | [Mon Dec 2](materials/presentation)  | 4. the presentation | Final (15-min) Presentation (presented in-class) |
+| 13 | [Mon Dec 2](materials/presentation)  | 4. the presentation | Final (15-min) Presentation (presented in-class)|
 
 This course is split into five main phases:
 - the setup: students will get set up with all of the tools necessary
