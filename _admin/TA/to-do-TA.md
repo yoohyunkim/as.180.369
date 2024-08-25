@@ -1,6 +1,7 @@
 20240823-for-20240826 To Do List:
 - [x] EBM By 08/26: go to library to see about access to premiuem gen AI's
 - [x] EBM By 08/26: create Instructors-Notes folder within _admin with notes file for first class
+- [ ] EBM By 08/26: Go to library and figure out how students can access the Dennett article through the library's resources
 
 20240816-for-20240823 To Do List:
 - [~] EBM By 08/23: Gain access to paid AI's (GT-4o and Claude) using AWS and Azure + figure out which version of Claude is available
