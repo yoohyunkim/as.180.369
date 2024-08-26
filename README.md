@@ -42,7 +42,7 @@ This course will be conducted by your instructor a graduate teaching assistant, 
 
 - Instructor: [Chris Carroll <ccarroll@jhu.edu>](https://econ.jhu.edu/directory/christopher-carroll/)
 - Graduate Teaching Assistant: [Adrian Monninger <amonnin1@jhu.edu>]
-- Undergraduate Teaching Assistant: [Eitan Murinson <emurins1@jhu.edu>]
+- Undergraduate Teaching Assistant: [Ethan Murinson <emurins1@jhu.edu>]
 
 
 
@@ -108,7 +108,7 @@ My Github handle is [AMonninger](https://github.com/AMonninger).
 
 ### Contact
 
-If you have any issues or questions with assignments in this course, course attendees are encouraged to communicate by @-tagging me on Github in a Github Issue.
+If you have any issues or questions with assignments in this course, ask me by @-tagging me on Github in a Github Issue.
 My Github handle is [emurinson](https://github.com/emurinson).If you have any questions you'd like addressed by email, please contact me at: [emurins1@jhu.edu](mailto:emurins1@jhu.edu).
 
 (Also, see [below](#communications) for the communications policy for this course.)
@@ -116,8 +116,7 @@ My Github handle is [emurinson](https://github.com/emurinson).If you have any qu
 ### Bio
 
 > I'm excited to be your TA for this course. I am a senior studying Math and Economics at Johns Hopkins
-> University.  My research focuses on macroeconomics with emphasis on
-> heterogeneous agent. For this, I am using and developing [Econ-ARK](https://econ-ark.org/).
+> University. I took this course last semester and loved it, so I'm excited to be a part of it again! 
 
 
 
@@ -185,11 +184,11 @@ Note that the schedule above may shift as we progress through the course. Update
 ## Grading
 
 Your grade in this course will consist of four components:
-- Research pitch (10%—due Mon Sep 25)
+- Research pitch (10%—due Mon Sep 23)
 - Term paper:
-    - Draft submission (25%—due Fri Oct. 27th)
-    - Final submission (25%—due Fri Dec. 1st)
-- Research presentation (10%—due Mon Dec 4)
+    - Draft submission (25%—due Mon. Nov 4th)
+    - Final submission (25%—due Mon. Nov. 18thst)
+- Research presentation (10%—due Mon Dec 2)
 - Course participation (30%—assessed overall)
 
 The last component (“course participation”) will be assessed by your instructor and TA based on the following factors:
@@ -280,8 +279,6 @@ Garland, (410) 516-4720, [studentdisabilityservices@jhu.edu](mailto:studentdisab
 If you have any questions about this or any other policy, please contact
 your instructor.
 
-**Do not contact or CC the course external support on issues related to
-course accommodations.**
 
 ### Mental Health
 
@@ -317,7 +314,7 @@ for additional guidance.
 
 ### Communications
 
-Your instructor, teaching assistant, and external support will be
+Your instructor and teaching assistants will be
 responsive over email during regular business hours (9 AM ~ 5 PM
 US/Eastern) during the school week (Monday ~ Friday.)
 
@@ -337,10 +334,10 @@ If you need to contact your instructor or teaching assistant about
 assignments, absences, or grade-related matters, please e-mail us well
 in advance.
 
-The external support for this class is a resource you may use for
+<--The external support for this class is a resource you may use for
 additional guidance, feedback, or technical support. They are not
 affiliated with Johns Hopkins University. Do not contact them about
-issues related to personal matters, absences, assignments, or grading.
+issues related to personal matters, absences, assignments, or grading.--!>
 
 ### Academic Ethics
 
