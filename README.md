@@ -41,8 +41,10 @@ This is an in-person course, held on the Johns Hopkins Homewood Campus:
 This course will be conducted by your instructor a graduate teaching assistant, supported by an undergraduate teaching assistant:
 
 - Instructor: [Chris Carroll <ccarroll@jhu.edu>](https://econ.jhu.edu/directory/christopher-carroll/)
+
 - Graduate Teaching Assistant: [Adrian Monninger <amonnin1@jhu.edu>]
 - Undergraduate Teaching Assistant: [Ethan Murinson <emurins1@jhu.edu>]
+
 
 
 
@@ -84,7 +86,9 @@ If you need to meet with me outside of these times, please e-mail me.
 > Statistics, (JBES) and the Berkeley Electronic Journal of
 > Macroeconomics (BEJM).
 
-## Graduate TA—Adrian Monninger <!-- Going to change this -->
+
+## Teaching Assistant—Adrian Monninger
+
 
 <img src="media/adrian-monninger.jpg?raw=true" alt="Adrian Monninger" width="300"/>
 
