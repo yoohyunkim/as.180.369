@@ -334,10 +334,7 @@ If you need to contact your instructor or teaching assistant about
 assignments, absences, or grade-related matters, please e-mail us well
 in advance.
 
-<--The external support for this class is a resource you may use for
-additional guidance, feedback, or technical support. They are not
-affiliated with Johns Hopkins University. Do not contact them about
-issues related to personal matters, absences, assignments, or grading.--!>
+
 
 ### Academic Ethics
 
