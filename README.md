@@ -1,6 +1,6 @@
-# Syllabus: AS.180.369 “Tools for Writing a Research Paper in Economics” (Fall 2023)
+# Syllabus: AS.180.369 “Tools for Writing a Research Paper in Economics” (Fall 2024)
 
-**This repository contains all of the course materials for AS.180.369 “Tools for Writing a Research Paper in Economics.” (Fall 2023)**
+**This repository contains all of the course materials for AS.180.369 “Tools for Writing a Research Paper in Economics.” (Fall 2024)**
 
 **NOTE**: This syllabus is a live document. It will be periodically updated as the course progresses!
 
@@ -10,7 +10,7 @@
 * [Instructor—Chris Carroll](#instructorchris-carroll)
   * [Office Hours](#office-hours)
 * [Teaching Assistant—Adrian Monninger](#teaching-assistantadrian-monninger)
-* [External Support—Cameron Riddell](#external-supportcameron-riddell)
+* [Teaching Assistant—Ethan Murinson](#teaching-assistantethan-murinson)
 * [Course Materials](#course-materials)
 * [Course Description](#course-description)
 * [Course Requirements](#course-requirements)
@@ -35,16 +35,19 @@ This is an in-person course, held on the Johns Hopkins Homewood Campus:
 |:-------- | ----------------------------------------------------------------------------------------------------- |
 | Title    | [AS.180.369 “Tools for Writing a Research Paper in Economics”](#)                                     |
 | Hours    | Monday 3:00 PM US/Eastern ~ 5:30 PM US/Eastern                                                        |
-| Dates    | Aug 28, 2023 ~ Dec 8, 2023 (See [below](#schedule) for schedule.)                                             |
-| Location | [Hodson 315 (Homewood Campus)](https://www.google.com/maps/dir/Current+Location/39.327538,-76.622306) |
+| Dates    | Aug 26, 2024 ~ Dec 6, 2024 (See [below](#schedule) for schedule.)                                             |
+| Location | [Hodson 311 (Homewood Campus)](https://www.google.com/maps/dir/Current+Location/39.327538,-76.622306) |
 
-This course will be conducted by your instructor and a teaching assistant, supported by additional, external contributors:
+This course will be conducted by your instructor a graduate teaching assistant, supported by an undergraduate teaching assistant:
 
 - Instructor: [Chris Carroll <ccarroll@jhu.edu>](https://econ.jhu.edu/directory/christopher-carroll/)
-- Teaching Assistant: [Adrian Monninger <amonnin1@jhu.edu>](https://www.github.com/AMonninger)
-- External Support†: [Cameron Riddell <cameron@dutc.io>](https://www.dontusethiscode.com/blog.html)
 
-*† Cameron is not affiliated with Johns Hopkins University.*
+- Graduate Teaching Assistant: [Adrian Monninger <amonnin1@jhu.edu>]
+- Undergraduate Teaching Assistant: [Ethan Murinson <emurins1@jhu.edu>]
+
+
+
+
 
 ## Instructor—Chris Carroll
 
@@ -60,8 +63,8 @@ My Github handle is [llorracc](https://github.com/llorracc/).
 ### Office Hours
 
 My office is located at Wyman Park Building 590.
-I hold office hours Friday 1:45 - 3:45 PM US/Eastern.
-You must book in advance via [[http://www.econ2.jhu.edu/people/ccarroll/](http://www.econ2.jhu.edu/people/ccarroll/)](https://github.com/ccarrollATjhuecon/Teaching/blob/master/Logistics/Office-Hours-Rules.md)
+I hold Zoom office hours on Friday between 2:00 - 5:00 PM US/Eastern.
+You must book in advance via the following link [[http://www.econ2.jhu.edu/people/ccarroll/](http://www.econ2.jhu.edu/people/ccarroll/)](https://github.com/ccarrollATjhuecon/Teaching/blob/master/Logistics/Office-Hours-Rules.md)
 
 If you need to meet with me outside of these times, please e-mail me.
 
@@ -83,7 +86,9 @@ If you need to meet with me outside of these times, please e-mail me.
 > Statistics, (JBES) and the Berkeley Electronic Journal of
 > Macroeconomics (BEJM).
 
+
 ## Teaching Assistant—Adrian Monninger
+
 
 <img src="media/adrian-monninger.jpg?raw=true" alt="Adrian Monninger" width="300"/>
 
@@ -102,34 +107,22 @@ My Github handle is [AMonninger](https://github.com/AMonninger).
 > University.  My research focuses on macroeconomics with emphasis on
 > heterogeneous agent. For this, I am using and developing [Econ-ARK](https://econ-ark.org/).
 
-## External Support—Cameron Riddell
 
-![Cameron Riddell](media/cameron-riddell.jpg?raw=true)
-
-Cameron is a contributor to the [Econ-ARK](https://econ-ark.org/) project, which is led by Chris Carroll.
-
-**Cameron is __not__ affiliated with Johns Hopkins University.**
+## Undergraduate TA—Ethan Murinson
 
 ### Contact
 
-Please contact me about this course at my e-mail address: [cameron@dutc.io](mailto:cameron@dutc.io).
-For assignments in this course, course attendees are also encouraged to communicate by @-tagging me on Github.
-My Github handle is [camriddell](https://github.com/camriddell/).
+If you have any issues or questions with assignments in this course, ask me by @-tagging me on Github in a Github Issue.
+My Github handle is [emurinson](https://github.com/emurinson).If you have any questions you'd like addressed by email, please contact me at: [emurins1@jhu.edu](mailto:emurins1@jhu.edu).
+
 (Also, see [below](#communications) for the communications policy for this course.)
-
-Feel free to contact external support for additional technical support or
-instructional guidance (where directed by your TA.)
-
-**Do not contact or CC external support for issues relating to absences, grading,
-accommodations, or other personal matters.**
 
 ### Bio
 
-> Cameron worked in academia studying various aspects of psychology,
-> including the neural activity underlying social interaction, perception
-> of taste, and human memory. His studies naturally led him to learn
-> Python, which he has been writing for over 8 years with a strong
-> emphasis on data analytics and scientific communication.
+> I'm excited to be your TA for this course. I am a senior studying Math and Economics at Johns Hopkins
+> University. I took this course last semester and loved it, so I'm excited to be a part of it again! 
+
+
 
 ## Course Materials
 
@@ -160,21 +153,21 @@ languages (though having taken a formal course in such a language is not require
 
 ## Schedule
 
-| #  | Date                                 | Phase               |                 Due/Assignments                 |
+| #  | Date                                 | Phase               |                 Due                             |
 |:--:|--------------------------------------|---------------------|:-----------------------------------------------:|
-| 1  | [Mon Aug 28](materials/setup)        | 0. the setup        |                                                 |
-| 2  | [Mon Sep 11](materials/pitch)        | 1. the pitch        |                                                 |
-| 3  | [Mon Sep 18](materials/pitch)        | 1. the pitch        |                                                 |
-| 4  | [Mon Sep 25](materials/pitch)        | 1. the pitch        |  2×3-min Research Pitches (presented in-class)  |
-| 5  | [Mon Oct 2](materials/draft)         | 2. the draft        |                                                 |
-| 6  | [Mon Oct 9](materials/draft)         | 2. the draft        |                                                 |
-| 7  | [Mon Oct 16](materials/draft)        | 2. the draft        |                                                 |
-| 8  | [Mon Oct 23](materials/draft)        | 2. the draft        |                                                 |
-| 9  | [Mon Oct 30](materials/submission)   | 2. the draft        |                                                 |
-| 10 | [Mon Nov 6](materials/submission)    | 2. the draft        |      First Draft of Paper (submitted online)    |
-| 11 | [Mon Nov 13](materials/submission)   | 3. the submission   |                                                 |
-| 12 | [Mon Nov 27](materials/presentation) | 4. the presentation |     Final Draft of Paper (submitted online)     |
-| 13 | [Mon Dec 4](materials/presentation)  | 4. the presentation | Final (15-min) Presentation (presented in-class) |
+| 1  | [Mon Aug 26](materials/setup)        | 0. the setup        |                                                 |
+| 2  | [Mon Sep 9](materials/pitch)         | 1. the pitch        |     Dennett Summary; signup for NASA workshop   |
+| 3  | [Mon Sep 16](materials/pitch)        | 1. the pitch        |                                                 |
+| 4  | [Mon Sep 23](materials/pitch)        | 1. the pitch        |  2×3-min Research Pitches (presented in-class)  |
+| 5  | [Mon Sep 30](materials/draft)        | 2. the draft        |      Watch 2nd NASA Workshop                    |
+| 6  | [Mon Oct 7](materials/draft)         | 2. the draft        |                                                 |
+| 7  | [Mon Oct 14](materials/draft)        | 2. the draft        |                                                 |
+| 8  | [Mon Oct 21](materials/draft)        | 2. the draft        |                                                 |
+| 9  | [Mon Oct 28](materials/submission)   | 2. the draft        |                                                 |
+| 10 | [Mon Nov 4](materials/submission)    | 2. the draft        |      First Draft of Paper (submitted online)    |
+| 11 | [Mon Nov 11](materials/submission)   | 3. the submission   |                                                 |
+| 12 | [Mon Nov 18](materials/presentation) | 4. the presentation |     Final Draft of Paper (submitted online)     |
+| 13 | [Mon Dec 2](materials/presentation)  | 4. the presentation | Final (15-min) Presentation (presented in-class)|
 
 This course is split into five main phases:
 - the setup: students will get set up with all of the tools necessary
@@ -195,11 +188,11 @@ Note that the schedule above may shift as we progress through the course. Update
 ## Grading
 
 Your grade in this course will consist of four components:
-- Research pitch (10%—due Mon Sep 25)
+- Research pitch (10%—due Mon Sep 23)
 - Term paper:
-    - Draft submission (25%—due Fri Oct. 27th)
-    - Final submission (25%—due Fri Dec. 1st)
-- Research presentation (10%—due Mon Dec 4)
+    - Draft submission (25%—due Mon. Nov 4th)
+    - Final submission (25%—due Mon. Nov. 18thst)
+- Research presentation (10%—due Mon Dec 2)
 - Course participation (30%—assessed overall)
 
 The last component (“course participation”) will be assessed by your instructor and TA based on the following factors:
@@ -271,6 +264,8 @@ Note that JHU policy states:
 If you have any questions about this or any other policy, please contact
 your instructor.
 
+Having emphasized the importance of in-person participation, we recognize that it may occassionally happen that a student has COVID or other very extenuating circumstances (based on Instructor/TA approval) that prevent them from attending in-person. For these cases, this is our class's Zoom link (which will be the same for every class): [Zoom Meeting](https://zoom.us/j/94375507370)
+
 ### Accommodations
 
 We strive to create a welcoming, effective, and productive learning
@@ -288,8 +283,6 @@ Garland, (410) 516-4720, [studentdisabilityservices@jhu.edu](mailto:studentdisab
 If you have any questions about this or any other policy, please contact
 your instructor.
 
-**Do not contact or CC the course external support on issues related to
-course accommodations.**
 
 ### Mental Health
 
@@ -325,7 +318,7 @@ for additional guidance.
 
 ### Communications
 
-Your instructor, teaching assistant, and external support will be
+Your instructor and teaching assistants will be
 responsive over email during regular business hours (9 AM ~ 5 PM
 US/Eastern) during the school week (Monday ~ Friday.)
 
@@ -345,10 +338,7 @@ If you need to contact your instructor or teaching assistant about
 assignments, absences, or grade-related matters, please e-mail us well
 in advance.
 
-The external support for this class is a resource you may use for
-additional guidance, feedback, or technical support. They are not
-affiliated with Johns Hopkins University. Do not contact them about
-issues related to personal matters, absences, assignments, or grading.
+
 
 ### Academic Ethics
 

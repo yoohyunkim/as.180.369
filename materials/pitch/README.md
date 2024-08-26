@@ -5,14 +5,14 @@
 In the pitch phase of this course, you will create a pitch for a compelling
 research paper.
 
-## Mon Sep 11: Demos & Topics
+## Class 2: Demos & Topics
 
-[Zoom Meeting (Meeting ID # 943 5190 2371; Passcode 487000)](https://JHUBlueJays.zoom.us/j/94351902371?pwd=Z0JTbFhxbk9wTHlPM08rUnhtR0xIZz09)
 
-[Zoom recording. Requires JHU login.](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/mzahn2_jh_edu/EQTq2wtktIRCmEADI4K6oIEBfdt3ONcp5aTzttASTncz2Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=grzeEz)
+
+[Zoom recording. Requires JHU login.]()
 
 **Agenda**
-1. **CR**, **CC**, **MZ** tool micro-demos (50 mins)
+1. **CC, TA's** tool micro-demos (50 mins)
     - [Github.com](https://github.com) Demo (10 mins)
         - What is a fork?
         - How do I sync my copy of the repository with the original?
@@ -38,7 +38,7 @@ research paper.
         - How do I `git pull`?
         - How do I `git add` and `git commit`?
         - How do I use `gh`?
-2. **CR**, **CC**, **MZ** check your understanding (30 mins)
+2. **CC, TA's** check your understanding (30 mins)
     - [Github.com](http://github.com) Check (5 mins): Resync your ‘fork’ against [‘origin’](http://github.com/llorracc/as.180.369).
     - [Jupyterhub](http://jhu.econ-ark.org) Check (5 mins): Log in.
         - Under your `contrib/` folder, open your Dennett summary and copy the contents into a new notebook.
@@ -51,7 +51,7 @@ research paper.
         - `git commit -m …` the changes you `git add`ed.
         - `git push origin` to synchronize the changes from your Jupyterhub to Github.
     - **You should NEVER EVER edit ANYTHING on the Github website again** All changes should be made in Jupyterhub and then `git push`ed up.
-3. **CC**, **MZ** overview of term paper & process (15 mins): What is the overall goal of the term paper? What process will we follow? What do we want to accomplish through the pitch process?
+3. **CC, TA's** overview of term paper & process (15 mins): What is the overall goal of the term paper? What process will we follow? What do we want to accomplish through the pitch process?
 4. [Sign up for 2 of the starting topics](https://github.com/llorracc/as.180.369/issues/1).
 
 **Homework**
@@ -59,24 +59,24 @@ research paper.
 - Prepare a markdown file in your contrib folder with your thoughts on the topic and what your initial hypothesis for the relationship is.
 - You are welcome to use resources like ChatGPT for this assignment.
 
-## Mon Sep 18: Tools—BibTeX & PaperPile
+## Class 3 Tools—BibTeX & PaperPile
 
 **Agenda**
-1. **MZ** Example Python code analyzing the rate of return vs Presidential party. (15 min.)
-2. **CC**, **MZ** [BibTeX](https://www.bibtex.com) (30 min.)
+1. **TA** Example Python code analyzing the rate of return vs Presidential party. (15 min.)
+2. **CC, TA's** [BibTeX](https://www.bibtex.com) (30 min.)
     - [What is BibTeX?](https://www.bibtex.com/g/bibtex-format/#what-is-bibtex)
     - [BibTeX format explained](https://www.bibtex.com/g/bibtex-format/#bibtex-format-explained)
     - Discussion of BibTeX issues
-3. **CC**, **MZ** [Litmaps](https://www.litmaps.com/) (45 min.)
+3. **CC, TA's** [Litmaps](https://www.litmaps.com/) (45 min.)
     - [Synchronous Litmaps demonstration](https://www.youtube.com/watch?v=TJ_wkVDQBrs)
         - Finding literature via Litmaps
-4. **CC**, **MZ** [Paperpile](https://paperpile.com/) (45 min.)
+4. **CC, TA's** [Paperpile](https://paperpile.com/) (45 min.)
     - Create a free trial Paperpile account
     - Connect your account to the jhu library for help in finding papers
     - Sharing vs exporting bibliographies
     - How do you organize your Paperpile folders?
     - [Synchronous Paperpile demonstration](https://www.youtube.com/watch?v=0p2QbrmePKk)
-5. **CC**, **MZ** Sharing BibTeX files between Paperpile & Litmaps (15 min)
+5. **CC, TA's** Sharing BibTeX files between Paperpile & Litmaps (15 min)
 
 **Homework**
 - Use Litmaps to conduct two literature searches
@@ -88,7 +88,7 @@ research paper.
     - You will need to discuss which of your two topics seems more promising.
         - based upon your review of the literatures.
 
-## Mon Sep 25: Research Pitches
+## Class 4: Research Pitches
 
 [Zoom recording. Requires JHU login.](https://livejohnshopkins-my.sharepoint.com/personal/mzahn2_jh_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmzahn2%5Fjh%5Fedu%2FDocuments%2FFall%202023%20AS%2E160%2E369%20Class%20Recordings%2F2023%2E09%2E25%20Class%204%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&ga=1)
 
