@@ -13,7 +13,8 @@ introduce Chris and TA’s
 
 **Sign up for necessary services:**
 
-- sign in to GitHub 
+- sign up for GitHub
+  - write a description of who you are on your profile (e.g. "Undergraduate at Johns Hopkins University")
 - sign up for ChatGPT (as of 08/26/24 a regular account provides slower access to ChatGPT-4o)
 - sign up for Claude AI(as of 08/26/24 a regular account provides access to Claude 3.5 Sonnet)
 - discuss importance of interacting with paywalls legally
