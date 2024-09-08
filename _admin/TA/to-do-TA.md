@@ -5,7 +5,7 @@
 - [x] EBM By 09/09: delete Thanksgiving break and extra class at end of semester
 - [ ] EBM By 09/09: get prepared to work on my own paper alongside class
 - [ ] EBM By 09/09: make Instructors Notes for class 2
-- [ ] EBM By 09/09: update schedule to have JHU econ library guide right before Litmaps intro
+- [x] EBM By 09/09: update schedule to have JHU econ library guide right before Litmaps intro
 - [ ] 
 - [ ] 
 
