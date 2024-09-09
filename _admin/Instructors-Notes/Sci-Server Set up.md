@@ -33,11 +33,14 @@
 - Write your class assignment
 
 5. Run your jupyer book:
-- Install jupterbook (Open a terminal and type pip install jupterbook)
-- Navigate to your folder with the jupyerbook on the terminal
+- Install jupterbook doing the following
+```
+pip install jupyter-book
+```
+- Navigate to the folder above the jupyerbook on the terminal
 - Build your jupter book with the command 
 ```
-jb build
+jupyter-book build FolderName
 ```
 - Find the newly built jupyer book and open it.
 - That's it you have just accomplished to run your own jupter book! Congrats!
