@@ -8,17 +8,24 @@ CC, TA's tool micro-demos
   - IMPORTANT: active participation through posting and responding to issues is a large part of students' class participation grade
   - if you want to make sure you're notified about new issues, toggle "Watch" settings in the main repo
 
-**Jupyterhub Demo** (10-20 mins)
-- How do I get logged in?
-- Start by navigating to https://jhu.econ-ark.org, click on the button that says "Sign in with GitHub". From there enter your github username and password. You will then be taken to your Jupyterhub homepage.
-- How do I create new documents?
+**SciServer** (10-30 mins)
+- Create an account on sciserver.org
+- Create an image on sciserver.org/compute using the container *econ-ark*
+- Navigate to persistent folder
+- Clone repo
+- pip install jupyter-book
+- build first demo under contrib/camriddell/
+```
+pip install jupyter-book
+jupyter-book build jupyterbook-demo
+```
 - How do I use the launcher?
 - HOw do I upload files?
 - How do I use the terminal?
 - how do I toggle between folders
 
 
-**Markdown Demo** (20-65 mins)
+**Markdown Demo** (30-65 mins)
 - What is Markdown, and how do I use it to format my documents?
 - How do I create headings?
 - How do I emphasize text?
@@ -37,7 +44,7 @@ CC, TA's tool micro-demos
 
 **5 minute break** (75-80 mins)
 
-**git and gh Demo** (80-130 mins)
+**git and gh Demo** (80-110 mins)
 - gh help menu
 - gh auth login (choose Github.com, Yes reauthenticate,  use HTTPS, Login with a web browser)
 - How do I git clone?
@@ -52,7 +59,12 @@ CC, TA's tool micro-demos
 - now walk through reverse process: changes on github.com that you want on jupyterhub
   - git pull origin
 
-**Topic choosing (130-140 mins)** 
+**Paperpile demo** (110-130min)
+- discuss paperpile
+- HW: Journal of Economic Perspectives. Student should add a volume on paperpile and share it with the class.
+
+  
+**Topic choosing** (130-140 mins) 
 - discuss op-ed paper on why stock mkt. performance has been better under Dem's than Rep's
 - students are going to do a paper that has a similar structure + but looks at other things
   - can follow the easy cookie-cutter GOP flag example, or make your own
