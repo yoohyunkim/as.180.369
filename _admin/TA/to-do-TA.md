@@ -1,3 +1,7 @@
+20240913-for-20240916 To Do List:
+- [ ]EBM By 09/15: email students asking them to sign up for the NASA webinar if they haven't already
+- 
+
 20240906-for-20240909 To Do List:
 - [ ]EBM By 09/09: print out faces of students for seating chart
 - [ ] EBM By 09/09: remind class to take pre-NASA webinar survey linked in confirmation email
